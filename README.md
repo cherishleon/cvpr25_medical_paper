@@ -1,4 +1,4 @@
-# CVPR2025
+# CVPR2025 medical ai papers
 # Partially from https://github.com/MedAIerHHL/CVPR-MIA
 ## Additions or corrections are welcome in Issues!  
 format: Title + Paper Link + Code Link. Your contributions are always welcome!
