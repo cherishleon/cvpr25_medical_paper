@@ -58,8 +58,7 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
   <img src="https://github.com/mk-runner/MLRG/blob/main/generated-radiology-reports/fig2.png" width="50%"/>
 </p>
 
-  
-* FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification. [[Paper](https://arxiv.org/pdf/2411.14743)][[Code](https://github.com/dddavid4real/FOCUS)][[推送](https://mp.weixin.qq.com/s/1MYkitZ3btZUBOMcBg_ryw)]
+
 * MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Discrete Visual Representations. [[Paper](https://arxiv.org/pdf/2503.01019)][Code]
 
 ##  Multi modality (多模态)
@@ -74,7 +73,7 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
 <p align="center">
   <img src="https://github.com/shaohao011/BrainMVP/raw/main/assets/overview.png" width="50%"/>
 </p>
-* 
+
 
 ## Computational Pathology (计算病理)
 
@@ -105,6 +104,7 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
 
 ## Others
 * Blood Flow Speed Estimation with Optical Coherence Tomography Angiography Images [[Paper](https://www3.cs.stonybrook.edu/~hling/publication/octa-flow-cvpr25.pdf)] [[Code](https://github.com/Spritea/OCTA-Flow)]
+  
 <figure>
   <img
   src="https://github.com/Spritea/OCTA-Flow/blob/main/assets/samples.gif"
@@ -112,5 +112,6 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
   title="Samples">
 </figure>
 
+* dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis  [[Paper](https://arxiv.org/abs/2503.10412v2)]
 * Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression.
 * Towards All-in-One Medical Image Re-Identification [[Paper](https://arxiv.org/abs/2503.08173)]
