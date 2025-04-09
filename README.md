@@ -74,6 +74,13 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
   <img src="https://github.com/shaohao011/BrainMVP/raw/main/assets/overview.png" width="50%"/>
 </p>
 
+* STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification  [[paper](https://arxiv.org/abs/2503.06277)] [[code](https://github.com/siyi-wind/STiL)]
+  
+<p align="center">
+  <img src="https://github.com/siyi-wind/STiL/blob/main/Images/model.jpg" width="50%"/>
+</p>
+  
+
 
 ## Computational Pathology (计算病理)
 
