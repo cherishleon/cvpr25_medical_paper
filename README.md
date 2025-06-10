@@ -44,7 +44,7 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
 </p>
 
 * MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output
-* Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine [[Paper](https://arxiv.org/abs/2412.09278)  [[code](https://github.com/ShawnHuang497/MedPLIB)]  (*AAAI-2025*)
+* Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine [[Paper](https://arxiv.org/abs/2412.09278)]  [[code](https://github.com/ShawnHuang497/MedPLIB)]  (*AAAI-2025*)
 
 <p align="center">
   <img src="https://github.com/ShawnHuang497/MedPLIB/raw/main/assets/demo.png" width="50%"/>
@@ -68,7 +68,7 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
   <img src="https://github.com/Zoew420/AdaCoMed/blob/main/figs/image.png?raw=true" width="50%"/>
 </p>
 
-* Multi-modal Vision Pre-training for Medical Image Analysis  [[paper](https://arxiv.org/abs/2410.10604) [[code](https://github.com/shaohao011/BrainMVP)]
+* Multi-modal Vision Pre-training for Medical Image Analysis  [[paper](https://arxiv.org/abs/2410.10604)] [[code](https://github.com/shaohao011/BrainMVP)]
 
 <p align="center">
   <img src="https://github.com/shaohao011/BrainMVP/raw/main/assets/overview.png" width="50%"/>
@@ -80,8 +80,11 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
   <img src="https://github.com/siyi-wind/STiL/blob/main/Images/model.jpg" width="50%"/>
 </p>
   
-
-
+* Knowledge Bridger: Towards Training-Free Missing Modality Completion  [[paper](https://arxiv.org/pdf/2502.19834)] [[code](https://github.com/Guanzhou-Ke/Knowledge-Bridger)]
+<p align="center">
+  <img src="https://github.com/Guanzhou-Ke/Knowledge-Bridger/blob/main/misc/framework.jpg" width="50%"/>
+</p>
+  
 ## Computational Pathology (计算病理)
 
 - Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance LearningComputational Pathology. [[Paper](https://arxiv.org/pdf/2502.21130)][[Code](https://github.com/JiuyangDong/HDMIL)]
