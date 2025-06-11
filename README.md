@@ -43,7 +43,7 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
     <img src="https://github.com/HealthX-Lab/BiomedCoOp/blob/main/assets/BiomedCoOp.jpg" width="50%"/>
 </p>
 
-* MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output
+* MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output [[Paper](https://cvpr.thecvf.com/virtual/2025/poster/35156)]  [[code](https://github.com/pkusixspace/MIMO)] 
 * Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine [[Paper](https://arxiv.org/abs/2412.09278)]  [[code](https://github.com/ShawnHuang497/MedPLIB)]  (*AAAI-2025*)
 
 <p align="center">
@@ -68,6 +68,12 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
   <img src="https://github.com/Zoew420/AdaCoMed/blob/main/figs/image.png?raw=true" width="50%"/>
 </p>
 
+* MM-OR: A Large Multimodal Operating Room Dataset for Semantic Understanding of High-Intensity Surgical Environments   [[paper](https://arxiv.org/abs/2503.02579)]  [[code](https://egeozsoy.github.io/MM-OR/)]
+
+<p align="center">
+  <img src="https://github.com/egeozsoy/MM-OR/raw/master/figure.jpg?raw=true" width="50%"/>
+</p>
+
 * Multi-modal Vision Pre-training for Medical Image Analysis  [[paper](https://arxiv.org/abs/2410.10604)] [[code](https://github.com/shaohao011/BrainMVP)]
 
 <p align="center">
@@ -84,7 +90,14 @@ format: Title + Paper Link + Code Link. Your contributions are always welcome!
 <p align="center">
   <img src="https://github.com/Guanzhou-Ke/Knowledge-Bridger/blob/main/misc/framework.jpg" width="50%"/>
 </p>
-  
+
+* Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images   [[paper](https://arxiv.org/pdf/2412.09910)]  [[code](https://github.com/yasamin-med/P2P)]
+
+<p align="center">
+  <img src="https://github.com/yasamin-med/P2P/raw/main/images/attack%20paper_final_version-1.png?raw=true" width="50%"/>
+</p>
+
+
 ## Computational Pathology (计算病理)
 
 - Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance LearningComputational Pathology. [[Paper](https://arxiv.org/pdf/2502.21130)][[Code](https://github.com/JiuyangDong/HDMIL)]
