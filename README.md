@@ -3,6 +3,18 @@
 ## Additions or corrections are welcome in Issues!  
 format: Title + Paper Link + Code Link. Your contributions are always welcome!
 
+## World Model
+- EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance [[Paper](https://arxiv.org/abs/2504.13065)][[Code](https://github.com/LeapLabTHU/EchoWorld)]
+<p align="center">
+  <img src="https://github.com/LeapLabTHU/EchoWorld/raw/main/assets/fig2.png" width="50%"/>
+</p>
+
+- CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning [[Paper](https://arxiv.org/abs/2504.13820)][[Code](https://github.com/LeapLabTHU/CheXWorld)]
+<p align="center">
+  <img src="https://github.com/LeapLabTHU/CheXWorld/raw/main/imgs/fig1.png" width="50%"/>
+</p>
+
+
 ## Image Segmentation (图像分割)
 - Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline [[Paper](https://arxiv.org/abs/2411.12814)] [[Code](https://github.com/uni-medical/IMIS-Bench)]
 <p align="center">
